@@ -1,6 +1,8 @@
-### Hi there 👋
+### 欢迎来到ob的GitHub
 
-[![ob's github stats](https://github-readme-stats.vercel.app/api?username=kookob&show_icons=true&theme=tokyonight)](https://github.com/kookob)
+|[![ob's github stats](https://github-readme-stats.vercel.app/api?username=kookob&show_icons=true&theme=tokyonight)](https://github.com/kookob)|[![test](https://github-readme-stats.vercel.app/api/top-langs/?username=kookob&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/kookob)
+| ------------- | ------------- |
+
 
 <!--
 **kookob/kookob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
